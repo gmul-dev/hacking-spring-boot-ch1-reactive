@@ -1,4 +1,4 @@
-package com.gmul.hackingspringboot.reactive.domain;
+package com.gmul.hackingspringboot.reactive.model;
 
 public class Dish {
 

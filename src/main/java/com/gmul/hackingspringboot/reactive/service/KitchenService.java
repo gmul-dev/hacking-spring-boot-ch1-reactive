@@ -1,6 +1,6 @@
 package com.gmul.hackingspringboot.reactive.service;
 
-import com.gmul.hackingspringboot.reactive.domain.Dish;
+import com.gmul.hackingspringboot.reactive.model.Dish;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 

@@ -1,6 +1,6 @@
 package com.gmul.hackingspringboot.reactive.api;
 
-import com.gmul.hackingspringboot.reactive.domain.Dish;
+import com.gmul.hackingspringboot.reactive.model.Dish;
 import com.gmul.hackingspringboot.reactive.service.KitchenService;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
